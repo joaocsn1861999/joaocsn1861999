@@ -17,4 +17,4 @@ Aprimorar minhas habilidades práticas, contribuir com projetos reais e seguir c
 ### Como me encontrar:
 - Email: **joaocsnprofissional@gmail.com**
 - LinkedIn: [linkedin.com/in/joaocsn1861999](https://www.linkedin.com/in/joaocsn1861999)  
-- Portfólio: [portfolio-black-three-83.vercel.app](https://portfolio-black-three-83.vercel.app/app/index.html)
+- Portfólio: [portfolio-black-three-83.vercel.app](https://portfolio-black-three-83.vercel.app/index.html)
