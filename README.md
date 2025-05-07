@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá! Eu me chamo João Carlos
 
-<!--
-**joaocsn1861999/joaocsn1861999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web fullstack.
 
-Here are some ideas to get you started:
+### Tecnologias que utilizo:
+- **Front-end:** HTML5, CSS3, JavaScript, TypeScript, Angular  
+- **Back-end:** Node.js, Express, MySQL 
+- **Ferramentas:** Git & GitHub, PostMan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que você vai encontrar por aqui:
+- Projetos pessoais e acadêmicos que desenvolvi para praticar e aplicar conceitos reais
+- Meu progresso contínuo como desenvolvedor web
+
+### Objetivo atual:
+Aprimorar minhas habilidades práticas, contribuir com projetos reais e seguir com aprendizado continuo.
+
+### Como me encontrar:
+- Email: **joaocsnprofissional@gmail.com**
+- LinkedIn: [linkedin.com/in/joaocsn1861999](https://www.linkedin.com/in/joaocsn1861999)  
+- Portfólio: [portfolio-black-three-83.vercel.app](https://portfolio-black-three-83.vercel.app/app/index.html)
