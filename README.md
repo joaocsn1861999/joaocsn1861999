@@ -1,4 +1,4 @@
-## 👋 Olá! Eu me chamo João Carlos
+## Olá! Eu me chamo João Carlos
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web fullstack.
 
